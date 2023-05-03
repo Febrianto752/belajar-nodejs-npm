@@ -2,7 +2,9 @@
   "name": "belajar-nodejs-npm",
   "version": "1.0.0",
   "description": "Belajar NodeJS NPM Dasar",
-  "main": "index.js",
+  "exports": {
+    "./sum": "./src/sum.js"
+  },
   "type": "module",
   "repository": {
     "type": "git",
