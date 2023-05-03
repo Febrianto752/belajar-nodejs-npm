@@ -1,6 +1,23 @@
 {
-  "name": "latihan_npm",
+  "name": "belajar-nodejs-npm",
   "version": "1.0.0",
+  "description": "Belajar NodeJS NPM Dasar",
   "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Febrianto752/belajar-nodejs-npm"
+  },
+  "scripts": {
+    "prestart": "echo 'Before application start'",
+    "start": "node src/script.js",
+    "poststart": "echo 'After application start'"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "javascript"
+  ],
+  "author": "febrianto",
   "license": "MIT"
 }
