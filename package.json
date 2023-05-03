@@ -23,6 +23,7 @@
   "author": "febrianto",
   "license": "MIT",
   "dependencies": {
+    "febrianto752-belajar-npm": "1.x",
     "lodash": "4.x"
   },
   "devDependencies": {

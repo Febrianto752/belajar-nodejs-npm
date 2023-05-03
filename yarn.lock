@@ -67,6 +67,11 @@ debug@^3.2.7:
   dependencies:
     ms "^2.1.1"
 
+febrianto752-belajar-npm@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/febrianto752-belajar-npm/-/febrianto752-belajar-npm-1.0.0.tgz#6b203a22cd7e2a740658042486bea550b158beca"
+  integrity sha512-MshT8dXEWr1QMg3L4I4X2XZBbg74rxZcjz7qqdMzPWIHwGc1Jie7GKRLhQKR8Gd/3OjZ3jtHq7jMcQpYNmIMwg==
+
 fill-range@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
