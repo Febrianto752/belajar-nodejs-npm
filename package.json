@@ -21,5 +21,11 @@
     "javascript"
   ],
   "author": "febrianto",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.x"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
 }
